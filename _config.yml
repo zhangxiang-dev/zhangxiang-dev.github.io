@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://zhangxiang-dev.github.io'
 
 github:
   username: github_username             # change to your github username
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://gitee.com/zhangxiangvic/image-bed/raw/master/images'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'qme.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
